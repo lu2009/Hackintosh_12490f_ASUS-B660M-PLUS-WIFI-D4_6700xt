@@ -7,7 +7,8 @@
 - 请替换三码。
 - BIOS没有CFG LOCK开关选项，在OC界面使用grubx64.efi 输入 ```bash
 setup_var CpuSetup 0x44 0x00
-``` 即可关闭CFG LOCK
+```
+即可关闭CFG LOCK
 
 ### 硬件配置
 
