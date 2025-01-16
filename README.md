@@ -2,7 +2,7 @@
 ### ASUS-B660M-PLUS-WIFI-D4 黑苹果OpenCore EFI
 
 ### 注意事项
-- 不喜欢OCLP补丁，使用的[itlwm.kext](https://github.com/OpenIntelWireless/itlwm)驱动无线网卡，需下载[HeliPort](https://github.com/OpenIntelWireless/HeliPort.git)搭配使用，也可以在编辑itlwm.kext包内的Info.plist文件，添加或修改ssid和password使用。
+- 不喜欢OCLP补丁，使用的[itlwm.kext](https://github.com/OpenIntelWireless/itlwm)驱动无线网卡，需下载[HeliPort](https://github.com/OpenIntelWireless/HeliPort.git)搭配使用，也可以编辑itlwm.kext包内的Info.plist文件，添加或修改ssid和password使用。
 - RX 6700XT显卡需要的NooTRX.kext，如果你要自己更新驱动，暂时请不要用[Nightly build](https://chefkissinc.github.io/applehax/nootrx/)版本，会导致睡眠唤醒后卡顿到无法使用只能重启，解决办法为使用 [build: Bump deps #219](https://github.com/ChefKissInc/NootRX/actions/runs/11941828922) 这个12月份的版本，2015-1-17目前测试只有此版本没问题
 - 请替换三码。
 - BIOS没有CFG LOCK开关选项，在OC界面使用grubx64.efi 输入
