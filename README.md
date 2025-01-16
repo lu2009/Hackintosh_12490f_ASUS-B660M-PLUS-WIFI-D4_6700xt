@@ -25,8 +25,11 @@
 
 ### BIOS 设置
 fastboot 关闭
+
 Serial port 关闭
+
 CFG LOCk 关闭
+
 
 BIOS没有CFG LOCK开关选项，在OC界面使用grubx64.efi 输入 setup_var CpuSetup 0x44 0x00
 即可关闭CFG LOCK
