@@ -16,7 +16,7 @@ setup_var CpuSetup 0x44 0x00
 |  配置|  型号|
 |---|---|
 |  CPU| 12th Gen Intel(R) Core(TM) i5-12490F |
-|  主板| ASUS-TUF-B660M-PLUS-WIFI-D4 |
+|  主板| TUF GAMING B660M-PLUS WIFI D4 |
 |  内存| 32 GB 3600 MHz DDR4 |
 |  板载网卡|  RTL8125 |
 |  网卡+蓝牙| AX201 |
