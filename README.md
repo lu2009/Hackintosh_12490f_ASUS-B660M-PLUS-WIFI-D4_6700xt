@@ -25,7 +25,7 @@
 - USB
 ### 注意事项
 - 不喜欢OCLP补丁，使用的itlwm.kext驱动无线网卡，需下载HeliPort搭配使用  https://github.com/OpenIntelWireless/HeliPort.git
-- RX 6700XT显卡需要的NOOTRX.kext，如果你要自己更新驱动，暂时请不要用Nightly build版本，会导致睡眠唤醒后卡顿到无法使用只能重启，解决办法为使用 https://github.com/ChefKissInc/NootRX/actions/runs/11941828922 这个12月份的版本，2015-1-17目前测试只有此版本没问题
+- RX 6700XT显卡需要的NooTRX.kext，如果你要自己更新驱动，暂时请不要用Nightly build版本，会导致睡眠唤醒后卡顿到无法使用只能重启，解决办法为使用 https://github.com/ChefKissInc/NootRX/actions/runs/11941828922 这个12月份的版本，2015-1-17目前测试只有此版本没问题
 
 ### BIOS 设置
 fastboot 关闭
