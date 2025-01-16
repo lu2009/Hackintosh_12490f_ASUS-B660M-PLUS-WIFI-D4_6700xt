@@ -1,5 +1,5 @@
 
-华硕B660M 迫击炮 wifi d4，i5-12490F，撼讯红魔RX 6700XT 12G。
+ASUS-B660M-PLUS-WIFI-D4 黑苹果OpenCore EFI
 
 请替换三码。
 
