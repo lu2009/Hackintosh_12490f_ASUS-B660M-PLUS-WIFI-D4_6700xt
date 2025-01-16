@@ -38,9 +38,3 @@ CFG LOCk 关闭
 BIOS没有CFG LOCK开关选项，在OC界面使用grubx64.efi 输入 setup_var CpuSetup 0x44 0x00
 即可关闭CFG LOCK
 
-
-
-
-记录
-
-RX 6700XT显卡需要添加 NOOTRX.kext 驱动 ，注意不要用Nightly build版本，会导致睡眠唤醒后卡顿到无法使用只能重启，解决办法为使用https://github.com/ChefKissInc/NootRX/actions/runs/11941828922 这个12月份的版本，测试只有此版本没问题
