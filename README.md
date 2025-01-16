@@ -7,13 +7,13 @@
 
 |  配置|  型号|
 |---|---|
-|  CPU| I5 12490F |
-|  主板| 华硕B660M 迫击炮 wifi d4 |
-|  内存|  16G x2 |
+|  CPU| 12th Gen Intel(R) Core(TM) i5-12490F |
+|  主板| ASUS-TUF—B660M-PLUS-WIFI-D4 |
+|  内存| 32 GB 3600 MHz DDR4 |
 |  板载网卡|  RTL8125 |
 |  网卡+蓝牙| AX201 |
-|  声卡| ALC987 |
-|  显卡| 撼迅红魔RX 6700XT 12G |
+|  声卡| ALC897 |
+|  显卡| AMD Radeon RX 6700 XT 12 GB |
 |  固态| 西数SN770 1T+SN750 500G|
 
 正常
