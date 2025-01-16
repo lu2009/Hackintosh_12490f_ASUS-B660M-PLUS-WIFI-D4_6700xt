@@ -29,58 +29,6 @@
 [itlwm](https://github.com/OpenIntelWireless/itlwm)
 ### 已知问题
 系统日志有ACPI Error，但不影响使用，如果知道解决方案请提交[issues](https://github.com/lu2009/Hackintosh_12490f_ASUS-B660M-PLUS-WIFI-D4_6700xt/issues)
-2025-01-16 20:32:02.497547+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Error:
-2025-01-16 20:32:02.497547+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Error:
-2025-01-16 20:32:02.497548+0800  localhost kernel[0]: (AppleACPIPlatform) Method parse/execution failed
-2025-01-16 20:32:02.497548+0800  localhost kernel[0]: (AppleACPIPlatform) Method parse/execution failed
-2025-01-16 20:32:02.497549+0800  localhost kernel[0]: (AppleACPIPlatform) [\_SB.PC00.RP09.PXSX] (Node ffffff9039ad99d0)
-2025-01-16 20:32:02.497550+0800  localhost kernel[0]: (AppleACPIPlatform) [\_SB.PC00.RP09.PXSX] (Node ffffff9039ad99d0)
-2025-01-16 20:32:02.497550+0800  localhost kernel[0]: (AppleACPIPlatform) , AE_NOT_FOUND
-2025-01-16 20:32:02.497551+0800  localhost kernel[0]: (AppleACPIPlatform) , AE_NOT_FOUND
-2025-01-16 20:32:02.497551+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/psparse-632)
-2025-01-16 20:32:02.497551+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/psparse-632)
-2025-01-16 20:32:02.502518+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Warning: \_GPE:
-2025-01-16 20:32:02.502519+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Warning: \_GPE:
-2025-01-16 20:32:02.502520+0800  localhost kernel[0]: (AppleACPIPlatform) Missing expected return value
-2025-01-16 20:32:02.502520+0800  localhost kernel[0]: (AppleACPIPlatform) Missing expected return value
-2025-01-16 20:32:02.502521+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/nsrepair-311)
-2025-01-16 20:32:02.502522+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/nsrepair-311)
-2025-01-16 20:32:02.503774+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Error:
-2025-01-16 20:32:02.503775+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Error:
-2025-01-16 20:32:02.503776+0800  localhost kernel[0]: (AppleACPIPlatform) [UHSM]
-2025-01-16 20:32:02.503776+0800  localhost kernel[0]: (AppleACPIPlatform) [UHSM]
-2025-01-16 20:32:02.503776+0800  localhost kernel[0]: (AppleACPIPlatform)  Namespace lookup failure, AE_NOT_FOUND
-2025-01-16 20:32:02.503777+0800  localhost kernel[0]: (AppleACPIPlatform)  Namespace lookup failure, AE_NOT_FOUND
-2025-01-16 20:32:02.503778+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/psargs-463)
-2025-01-16 20:32:02.503778+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/psargs-463)
-2025-01-16 20:32:02.503780+0800  localhost kernel[0]: (AppleACPIPlatform) [\___] @00042 #002D:
-2025-01-16 20:32:02.503780+0800  localhost kernel[0]: (AppleACPIPlatform) [\___] @00042 #002D:
-2025-01-16 20:32:02.503782+0800  localhost kernel[0]: (AppleACPIPlatform) <missing message>
-2025-01-16 20:32:02.503782+0800  localhost kernel[0]: (AppleACPIPlatform) <missing message>
-2025-01-16 20:32:02.503782+0800  localhost kernel[0]: (AppleACPIPlatform) No Local Variables are initialized for method ["\" ]
-2025-01-16 20:32:02.503783+0800  localhost kernel[0]: (AppleACPIPlatform) No Local Variables are initialized for method ["\" ]
-2025-01-16 20:32:02.503784+0800  localhost kernel[0]: (AppleACPIPlatform) <missing message>
-2025-01-16 20:32:02.503784+0800  localhost kernel[0]: (AppleACPIPlatform) <missing message>
-2025-01-16 20:32:02.503785+0800  localhost kernel[0]: (AppleACPIPlatform) No Arguments are initialized for method ["\" ]
-2025-01-16 20:32:02.503785+0800  localhost kernel[0]: (AppleACPIPlatform) No Arguments are initialized for method ["\" ]
-2025-01-16 20:32:02.503786+0800  localhost kernel[0]: (AppleACPIPlatform) <missing message>
-2025-01-16 20:32:02.503786+0800  localhost kernel[0]: (AppleACPIPlatform) <missing message>
-2025-01-16 20:32:02.503787+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Error:
-2025-01-16 20:32:02.503788+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Error:
-2025-01-16 20:32:02.503788+0800  localhost kernel[0]: (AppleACPIPlatform) Method parse/execution failed
-2025-01-16 20:32:02.503789+0800  localhost kernel[0]: (AppleACPIPlatform) Method parse/execution failed
-2025-01-16 20:32:02.503789+0800  localhost kernel[0]: (AppleACPIPlatform) [\] (Node ffffff8012a6cae0)
-2025-01-16 20:32:02.503790+0800  localhost kernel[0]: (AppleACPIPlatform) [\] (Node ffffff8012a6cae0)
-2025-01-16 20:32:02.503790+0800  localhost kernel[0]: (AppleACPIPlatform) , AE_NOT_FOUND
-2025-01-16 20:32:02.503791+0800  localhost kernel[0]: (AppleACPIPlatform) , AE_NOT_FOUND
-2025-01-16 20:32:02.503791+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/psparse-632)
-2025-01-16 20:32:02.503792+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/psparse-632)
-2025-01-16 20:32:02.503818+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Warning: \_GPE:
-2025-01-16 20:32:02.503819+0800  localhost kernel[0]: (AppleACPIPlatform) ACPI Warning: \_GPE:
-2025-01-16 20:32:02.503819+0800  localhost kernel[0]: (AppleACPIPlatform) Missing expected return value
-2025-01-16 20:32:02.503820+0800  localhost kernel[0]: (AppleACPIPlatform) Missing expected return value
-2025-01-16 20:32:02.503821+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/nsrepair-311)
-2025-01-16 20:32:02.503821+0800  localhost kernel[0]: (AppleACPIPlatform)  (20160930/nsrepair-311)
 
 
 
