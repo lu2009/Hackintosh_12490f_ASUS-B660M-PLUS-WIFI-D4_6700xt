@@ -62,3 +62,12 @@ Wake: 当你听到 “Wake from Sleep”，这意味着系统从睡眠状态完�
 DarkWake: 这是一种特殊类型的唤醒状态，其中系统会部分唤醒来执行某些任务，但不会完全唤醒，屏幕通常保持关闭，用户界面不可用。这种状态常用于例如电邮或日历更新、Time Machine 备份、网络连接的维护等后台任务。DarkWake 的优势是它允许系统执行必要的任务，同时消耗的电源更少，并保持了大部分的睡眠状态。
 
 总体来说，“DarkWake from Sleep” 和 “Wake from Sleep” 的主要区别在于唤醒的级别和目的。DarkWake 是一种低电量的、部分唤醒状态，用于后台任务，而普通的 Wake 则是完全的唤醒，用于用户交互。
+
+
+```bash
+sudo pmset tcpkeepalive 0
+```
+
+```bash
+sudo pmset proximitywake 0
+```
